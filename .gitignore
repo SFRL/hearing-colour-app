@@ -14,7 +14,7 @@
 # firebase
 .firebase
 .firebaserc
-.firebase.json
+firebase.json
 visualiser/firebase.js
 
 # misc
