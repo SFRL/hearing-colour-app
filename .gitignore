@@ -25,3 +25,5 @@ visualiser/firebase.js
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+test_simulation.mjs
