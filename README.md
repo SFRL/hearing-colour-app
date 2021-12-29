@@ -11,6 +11,8 @@ The app was created for the event [*HEARING COLOUR: SONIC WORLDS AND OTHER SENSE
 
 ![Photo of the live performance](performance.png)
 
+[Watch the performance on YouTube](https://youtu.be/qS6Ze8n4j8A)
+
 ## Data storage
 
 The data from the audience is saved on a [Firebase](http://firebase.google.com/) Realtime Database in the following format: 
